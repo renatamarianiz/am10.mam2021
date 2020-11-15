@@ -29,3 +29,4 @@ usethis::use_course(url, destdir = getOption("usethis.destdir")) will allow you 
 | 13     |Alessandro Angeletti, Chris Lewis, Johanna Jeffery, Nitya Chopra, Zichen Wang |AlessandroAngeletti |https://github.com/LBS-Group-13/DataViz|<N/A>     |13/11/2020 |
 | 4     |Ishitaa Jindal, Stelios Tzavellos , Michael Gritzbach, Oriana Wei, Jiakuo Li, Maddy Goodman| maddy-g6 |https://github.com/maddy-g6/group4-am10-final-proj|<N/A>     |13/11/2020 |
 | 6     |Aganieszka Prawda, Derek Leung , Malay Memani, Magdalena Cloppenburg, Samy Mohamad, Yichun Hou| Yichun-Hou |https://github.com/Yichun-Hou/AM10_Group6|<N/A>     |14/11/2020 |
+| 8     | Josephine Haag, Mehdi Lembarki Kadiry, Rick van der Linden, Melonica Mohapatra, Jun Xing, Peijun Xu | mmohap7 |<https://github.com/mmohap7/Study_Group_8>        | <N/A>        |2020-11-15 |
