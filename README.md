@@ -31,6 +31,5 @@ usethis::use_course(url, destdir = getOption("usethis.destdir")) will allow you 
 | 6     |Aganieszka Prawda, Derek Leung , Malay Memani, Magdalena Cloppenburg, Samy Mohamad, Yichun Hou| Yichun-Hou |https://github.com/Yichun-Hou/AM10_Group6|<N/A>     |14/11/2020 |
 | 8     | Josephine Haag, Mehdi Lembarki Kadiry, Rick van der Linden, Melonica Mohapatra, Jun Xing, Peijun Xu | mmohap7 |<https://github.com/mmohap7/Study_Group_8>        | <N/A>        |2020-11-15 |
 | 14     |Sammy Chen, Marie Cordes, Filippo De Bortoli, Jason Lubner, Ruchen Shangguan |ChenSammyChen |<https://github.com/ChenSammyChen/Group14_Final_Project>|<N/A>     |2020-11-16 |
-| 9     |Joseph Perrin, Advait Jayant, Ozlem Cuhaci, Rasul Rasulov, Lexin Xu
- |Rasul21 |<https://github.com/Rasul21/Group_9_Final_Project>|<N/A>     |2020-11-16 |
+| 9     |Joseph Perrin, Advait Jayant, Ozlem Cuhaci, Rasul Rasulov, Lexin Xu|Rasul21 |<https://github.com/Rasul21/Group_9_Final_Project>|<N/A>     |2020-11-16 |
 
